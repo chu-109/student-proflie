@@ -3,7 +3,9 @@ A simple Python program to store and manage basic student information, including
 - Name  
 - Age  
 - Grade  
-- Favorite Subject  
+- results
+- comment
+- subject
 
 ## ✨ Features
 - Add new student records  
