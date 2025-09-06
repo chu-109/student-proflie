@@ -10,7 +10,6 @@ A simple Python program to store and manage basic student information, including
 ## ✨ Features
 - Add new student records  
 - Display student information  
-- (Optional: update/delete functions if you added them)  
 
 ## 🛠️ Technologies Used
 - Python 3
