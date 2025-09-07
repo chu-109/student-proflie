@@ -16,4 +16,4 @@ A simple Python program to store and manage basic student information, including
 
 ## 🚀 How to Run
 1. Clone the repository:
-https://github.com/user-attachments/files/22190056/student.proflie.py
+https://github.com/user-attachments/files/22198162/student.proflie.py
